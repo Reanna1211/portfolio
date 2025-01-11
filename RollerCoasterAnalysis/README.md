@@ -49,6 +49,7 @@ To run this analysis locally, clone this repository and open the Jupyter Noteboo
 1. Clone the repository in terminal:
 
 bash:
+
 git clone https://github.com/Reanna1211/portfolio.git
 
 cd portfolio/RollerCoasterAnalysis
@@ -56,11 +57,13 @@ cd portfolio/RollerCoasterAnalysis
 2. Install the required libraries:
 
 bash:
+
 pip install -r requirements.txt
 
 3. Open the Jupyter Notebooks and start running the analysis:
 
 bash:
+
 jupyter notebook
 
 **Conclusion**
