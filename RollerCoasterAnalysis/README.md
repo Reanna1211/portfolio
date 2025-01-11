@@ -7,6 +7,32 @@ In this project, I performed a comprehensive analysis of roller coasters using p
 * Visualisations: Various types of visualisations, including bar charts, scatter plots, and pie charts, to help understand roller coaster attributes.
 * Interactivity: Functions that allow users to specify different parameters (e.g., roller coasters, variables such as speed or height) for analysis.
 
+**Project Goals**
+1. Explore Key Roller Coaster Attributes:
+* Analyse and visualise key attributes of roller coasters, such as speed, height, length, seating types, number of inversions, and operational status, to uncover patterns and trends.
+
+2. Understand the Relationship Between Features:
+* Investigate how different attributes, like speed and height, correlate with one another. Create visual representations (e.g., scatter plots) to explore these relationships in-depth.
+
+3. Track Roller Coaster Rankings Over Time:
+* Use historical ranking data to track the performance of individual roller coasters over the years and compare different coasters to identify trends in popularity.
+
+4. Provide Insights on Seating Types and Ride Characteristics:
+* Analyse how different seating types (e.g., sit-down, suspended) affect the average height, speed, and length of coasters, providing insights into design preferences and ride experiences.
+
+5. Examine Operational Status of Coasters:
+* Investigate the proportion of roller coasters that are still operating versus those that have been permanently closed. Understand how this impacts the overall roller coaster landscape.
+
+6. Enhance Data Visualisation Skills:
+* Use various visualisation techniques (histograms, bar charts, pie charts, scatter plots) to effectively present the data and insights in a clear and engaging manner.
+
+7. Create a Flexible Analysis Framework:
+* Develop functions that allow for easy analysis of different roller coasters and attributes, enabling users to tailor the analysis to their specific interests (e.g., comparing coasters by speed or examining trends in seating types).
+
+8. Showcase Data Science Skills:
+* Demonstrate proficiency in data processing, analysis, and visualisation using Python libraries like Pandas and Matplotlib, while ensuring that the analysis is easily understandable for a non-technical audience.
+
+
 **Analyses Performed**
 
 1. Ranking Over Time:
@@ -67,4 +93,16 @@ bash:
 jupyter notebook
 
 **Conclusion**
-This project showcases my ability to handle real-world data, perform exploratory data analysis, and create insightful visualisations. By exploring different roller coasters and their attributes, I demonstrate my proficiency in data manipulation, statistical analysis, and visualisation techniques—skills essential for a data science career.
+This Roller Coaster Analysis project demonstrates how data science techniques can be applied to explore and visualise key attributes of roller coasters, such as speed, height, length, seating types, and operational status. By employing various functions and visualisations, we were able to analyse trends, compare performance across roller coasters, and gain insights into how different features correlate with each other.
+
+Key Insights:
+* Trends in Rankings: By tracking roller coaster rankings over time, we observed how some coasters maintain consistently high rankings, while others experience fluctuations. This highlights the impact of factors like ride experience and park management on a coaster's long-term success.
+* Seat Type Analysis: Our analysis of seating types revealed the relationship between seating configurations and other attributes like height, speed, and length, providing insights into design choices and their impact on ride experiences.
+* Operational Status: The pie chart analysis of operating versus closed coasters offered a clear view of the state of roller coasters in the dataset, reflecting the overall health and longevity of popular rides.
+
+Implications and Next Steps:
+* Future Analysis: Further analysis could explore additional features such as rider preferences, weather conditions, and visitor reviews, which could enhance the understanding of coaster popularity.
+* Improving Ride Experiences: The insights from seating types and rankings can inform decisions on designing new roller coasters that cater to specific audience preferences, combining speed, height, and inversions in the right proportions.
+
+
+Overall, this project not only highlights my ability to analyse and visualise data but also demonstrates how such analyses can inform business decisions and improve customer experiences in the amusement park industry.
