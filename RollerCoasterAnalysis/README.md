@@ -50,6 +50,7 @@ To run this analysis locally, clone this repository and open the Jupyter Noteboo
 
 bash:
 git clone https://github.com/Reanna1211/portfolio.git
+
 cd portfolio/RollerCoasterAnalysis
 
 2. Install the required libraries:
