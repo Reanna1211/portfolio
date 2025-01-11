@@ -93,6 +93,7 @@ bash:
 jupyter notebook
 
 **Conclusion**
+
 This Roller Coaster Analysis project demonstrates how data science techniques can be applied to explore and visualise key attributes of roller coasters, such as speed, height, length, seating types, and operational status. By employing various functions and visualisations, we were able to analyse trends, compare performance across roller coasters, and gain insights into how different features correlate with each other.
 
 Key Insights:
