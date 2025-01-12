@@ -2,7 +2,7 @@
 CREATE TABLE subscriptions (
     id INT PRIMARY KEY,                        -- Unique identifier for each subscription
     subscription_start DATE,                   -- Start date of the subscription
-    subscription_end DATE NULL,                -- End date of the subscription (NULL if still active)
+    subscription_end VARCHAR(255) NULL,                -- End date of the subscription (NULL if still active)
     segment INT                                -- Segment type (e.g., 87, 30)
 );
 
