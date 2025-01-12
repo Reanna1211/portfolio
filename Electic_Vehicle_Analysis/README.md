@@ -19,11 +19,4 @@ This Tableau project analyses the distribution of electric and plug-in hybrid ca
 * The dataset shows that electric vehicles (EVs) outnumber plug-in hybrids, with a total of 99,959 EVs and 30,179 hybrid vehicles in Washington state.
 You can explore the interactive dashboard by clicking the link below:
 
-<iframe src = "https://public.tableau.com/app/profile/reanna.musoke/viz/Electric_Vehicle_Data/Dashboard1?publish=yes" width="100%" height="600"></iframe>
-
-
-
-
-
-
-[Tableau Dashboard: Electric and Plug-In Hybrid Cars in Washington](Your Tableau Public Link)
+https://public.tableau.com/app/profile/reanna.musoke/viz/Electric_Vehicle_Data/Dashboard1?publish=yes
