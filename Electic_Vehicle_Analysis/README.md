@@ -46,3 +46,4 @@ This dashboard provides valuable insights into the state of electric and plug-in
 You can explore the interactive dashboard by clicking the link below:
 
 https://public.tableau.com/app/profile/reanna.musoke/viz/Electric_Vehicle_Data/Dashboard1?publish=yes
+https://public.tableau.com/views/Electric_Vehicle_Data/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
